@@ -1,0 +1,114 @@
+{
+  "updated_at": "2026-11-09T11:44:51.669314+08:00",
+  "policy": "Hanya versi terbaru di alamat tetap; versi sumber dicatat pada setiap berkas.",
+  "presentations": [
+    {
+      "meeting": 1,
+      "source_version": "v25",
+      "path": "materi/pertemuan-01.html",
+      "sha256": "f6bcec84735d2beb6408e0b6763d069773d968866ba93e46be31528878731830"
+    },
+    {
+      "meeting": 2,
+      "source_version": "v20",
+      "path": "materi/pertemuan-02.html",
+      "sha256": "257e4d8de0bdf877625f08ac8254176d5330663c25837bfd9f86430a3f2bea37"
+    },
+    {
+      "meeting": 3,
+      "source_version": "v10",
+      "path": "materi/pertemuan-03.html",
+      "sha256": "38d25d18bf196f27ad78f61ff85a8fc4ec3270e18210eb003339ba149f8e2072"
+    },
+    {
+      "meeting": 4,
+      "source_version": "v04",
+      "path": "materi/pertemuan-04.html",
+      "sha256": "93676676e8da2dcf2a0122f1ee575b90d7d2320d24e1cfc741f0fb49bfdc6c10"
+    },
+    {
+      "meeting": 5,
+      "source_version": "v05",
+      "path": "materi/pertemuan-05.html",
+      "sha256": "87aa20ca713931bceffb3a7ebff9036bcd89f6b960aded5c61e07838c41d8d3b"
+    },
+    {
+      "meeting": 6,
+      "source_version": "v05",
+      "path": "materi/pertemuan-06.html",
+      "sha256": "ec6715859a0caa547e1dbef73ddc2c44f12faab13ce6d6740d67975ff747c26b"
+    },
+    {
+      "meeting": 7,
+      "source_version": "v05",
+      "path": "materi/pertemuan-07.html",
+      "sha256": "b8237053cfcac278a9c6f323537782e1a7094f76720d28b724584218f7738b9a"
+    },
+    {
+      "meeting": 8,
+      "source_version": "v05",
+      "path": "materi/pertemuan-08.html",
+      "sha256": "2f4d2604ea62852409ce9f2e3c8fcec7ddb3588680258b372be39eaab743eaf8"
+    },
+    {
+      "meeting": 9,
+      "source_version": "v04",
+      "path": "materi/pertemuan-09.html",
+      "sha256": "0ddbfcd70ccb219aeafbecda2698172ffb17166f332b35159f49b776db2e69be"
+    },
+    {
+      "meeting": 10,
+      "source_version": "v03",
+      "path": "materi/pertemuan-10.html",
+      "sha256": "bfa43618c91e50c09958e141aed9beb0ba1f679dae0b2f12a16c08eda1acb3ca"
+    },
+    {
+      "meeting": 11,
+      "source_version": "v03",
+      "path": "materi/pertemuan-11.html",
+      "sha256": "1bc360e725fed7e8e546ebc44b27754a809d9869911a517c4ea7cdbeae4e60dd"
+    },
+    {
+      "meeting": 12,
+      "source_version": "v03",
+      "path": "materi/pertemuan-12.html",
+      "sha256": "3f2cd2f9d208bd26dfbe19084a78220f69e6535a3dbc286f0ecb2b4294c85607"
+    },
+    {
+      "meeting": 13,
+      "source_version": "v03",
+      "path": "materi/pertemuan-13.html",
+      "sha256": "e99aa8d38f1b01c4bc2ff4d5c9fc8dcd86ac243310791eb294e74e70f04c6a69"
+    },
+    {
+      "meeting": 14,
+      "source_version": "v03",
+      "path": "materi/pertemuan-14.html",
+      "sha256": "f8de11f4a895a38b3cf9647090282fce58eca18d261912889eb1d37f3ce1d245"
+    },
+    {
+      "meeting": 15,
+      "source_version": "v03",
+      "path": "materi/pertemuan-15.html",
+      "sha256": "1011cdbf6fb9deb74e7c7c886abb8a809ea3646a0c28150989551f67a6a2ab11"
+    },
+    {
+      "meeting": 16,
+      "source_version": "v01",
+      "path": "materi/pertemuan-16.html",
+      "sha256": "69c6bee5b2b26bf4c6633de386d7120f85afeef44839d60ea39d9c2d97555443"
+    }
+  ],
+  "rps": [
+    {
+      "source_version": "v.07",
+      "path": "rps/rps-deep-learning-optimasi-evolusioner.pdf",
+      "sha256": "ac5929604f9c0509af0ac44d4378d333cec0317d5bb0a911ab68592f7a141f52"
+    },
+    {
+      "source_version": "v.07",
+      "path": "rps/rps-deep-learning-optimasi-evolusioner.docx",
+      "sha256": "8789722c3665313dadf7860157f67599a06f7b013c3666ae1984c7995b5770ac"
+    }
+  ]
+}
