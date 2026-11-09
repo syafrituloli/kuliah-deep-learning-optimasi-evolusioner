@@ -9,3 +9,5 @@ Materi HTML interaktif pertemuan 1–16 untuk S2 Magister Teknologi Informasi.
 - [Versi sumber dan SHA-256 berkas](versi.json)
 
 Setiap pertemuan tersedia dalam satu berkas HTML mandiri di folder `materi/`. Berkas dapat dibuka melalui situs atau disimpan untuk dipelajari secara offline.
+
+Setiap pembaruan materi wajib memperbarui `index.html`, termasuk kolom Versi sumber.
